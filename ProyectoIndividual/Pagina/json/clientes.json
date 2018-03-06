@@ -1,0 +1,44 @@
+[
+  {
+    "name":"Pontificia universidad Javeriana Cali",
+    "shortname":"ponti",
+    "tiempo":"5 años",
+    "opinion":"La atención al cliente y calidad de los productos es sobresaliente",
+    "link":"https://www.javerianacali.edu.co/"
+  },
+  {
+    "name":"Universidad del Valle",
+    "shortname":"valle",
+    "tiempo":"2 años",
+    "opinion":"Entre la mayoria de tiendas de cubos, Edurubiks sobresale por mucho, recomendado.",
+    "link":"www.univalle.edu.co/"
+  },
+  {
+    "name":"Didacticos NASA",
+    "shortname":"dida",
+    "tiempo":"4.5 años",
+    "opinion":"Desde que conocimos a edurubiks, hemos tenido de la mas alta calidad de materiales en cubos.",
+    "link":"https://www.facebook.com/didacticos.nasa.5"
+  },
+  {
+    "name":"Metodo Genius",
+    "shortname":"gen",
+    "tiempo":"1 años",
+    "opinion":"Pasamos de ser competencia directa, a ser aliados en ventas.",
+    "link":"www.metodogenius.com"
+  },
+  {
+    "name":"Arturo calle",
+    "shortname":"art",
+    "tiempo":"3 años",
+    "opinion":"La unica alternativa que tenemos para verder aparte de ropa.",
+    "link":"www.arturocalle.com/"
+  },
+  {
+    "name":"Tejaditos",
+    "shortname":"teja",
+    "tiempo":"7 años",
+    "opinion":"Nada mejor que comer un pastel y armar un cubo.",
+    "link":"www.tejaditos.co"
+  }
+]

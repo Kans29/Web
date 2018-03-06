@@ -1,0 +1,65 @@
+[
+  {
+    "name":"Qiyi MoFangGe 3x3 Valk",
+    "shortname":"valk3x3",
+    "reknown":"Blanco, Negro, Azul.",
+    "cantidad":"10",
+    "precio":"$50.000",
+    "bio":"Un cubo de muy alta calidad. Una vida duradera y prevencion a pops casi asegurada.",
+    "link":"https://www.youtube.com/watch?v=w9LFX87-S3g"
+  },
+  {
+    "name":"GAN's 3x3 356 Master ",
+    "shortname":"gan3x3",
+    "reknown":"Blanco, Negro, Azul, Plateado.",
+    "cantidad":"50",
+    "precio":"$100.000",
+    "bio":"De los mejores cubos en la actualidad, el precio lo vale, usado por el campeon mundial.",
+    "link":"https://www.youtube.com/watch?v=WUd2g9VWKSk"
+  },
+  {
+    "name":"2x2 Moyu LingPo",
+    "shortname":"moyu2x2",
+    "reknown":"Blanco.",
+    "cantidad":"2",
+    "precio":"$30.000",
+    "bio":"De los mejores 2x2 en el mercado, sistema antipop y una larga duración.",
+    "link":"https://www.youtube.com/watch?v=7UTy7awxCcg"
+  },
+  {
+    "name":"4x4 Moyu Weisu",
+    "shortname":"moyu4x4",
+    "reknown":"Blanco, Negro.",
+    "cantidad":"32",
+    "precio":"$70.000",
+    "bio":"De los mejores 4x4 del mercado, adquieralo y verá como sus tiempos mejoran.",
+    "link":"https://www.youtube.com/watch?v=bNjd4k5xsGw"
+  },
+  {
+    "name":"Qiyi 5x5 Wu Shuang",
+    "shortname":"5x5",
+    "reknown":"Plateado.",
+    "cantidad":"56",
+    "precio":"$90.000",
+    "bio":"Usado por gran parte de la comunidad actual. Prevencion a pops casi asegurada.",
+    "link":"https://www.youtube.com/watch?v=Rkw0Xhw3nCI"
+  },
+  {
+    "name":"Qiyi 6x6 WuHua",
+    "shortname":"6x6",
+    "reknown":"Blanco, Negro, Azul, dorado.",
+    "cantidad":"10",
+    "precio":"$120.000",
+    "bio":"Muy soicitado entre los campeones mundiales, comprelo y mejorará.",
+    "link":"https://www.youtube.com/watch?v=ZslmDr7X24o"
+  },
+  {
+    "name":"Qiyi Pyraminx",
+    "shortname":"pyra",
+    "reknown":"Blanco, Negro, Azul.",
+    "cantidad":"40",
+    "precio":"$35.000",
+    "bio":"Si buscabas un buen pyraminx, aqui lo tienes.",
+    "link":"https://www.youtube.com/watch?v=wDd9M2zSC00"
+  }
+]

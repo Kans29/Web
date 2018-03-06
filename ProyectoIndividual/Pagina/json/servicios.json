@@ -1,0 +1,37 @@
+[
+  {
+    "name":"Tutorias para principiantes",
+    "shortname":"prin",
+    "tiempo":"De 1 a 6 meses.",
+    "opinion":"Se parte desde lo mas basico en las etapas de armar el cubo rubik, hasta poder llevarlo a su completa solucion.",
+    "link":"https://www.javerianacali.edu.co/"
+  },
+  {
+    "name":"Cubos por encargo",
+    "shortname":"encargo",
+    "tiempo":"Máximo 2 meses dependiendo del cubo.",
+    "opinion":"Si no tenemos alguno de los productos que desea, lo conseguiremos y se lo daremosal mejor de los precios.",
+    "link":"www.univalle.edu.co/"
+  },
+  {
+    "name":"Modificaciones personalizadas",
+    "shortname":"mod",
+    "tiempo":"Indefinido",
+    "opinion":"Desea realizar algun tipo de modificacion a sus cubos? Nosotros estamos dispuestos a realizar sus diseños.",
+    "link":"https://www.facebook.com/didacticos.nasa.5"
+  },
+  {
+    "name":"Practicas pre torneo",
+    "shortname":"prac",
+    "tiempo":"Mensualmente",
+    "opinion":"Ofrecemos a todos nuestros clientes la posibilidad de participar en las practicas grupales para mejorar.",
+    "link":"www.metodogenius.com"
+  },
+  {
+    "name":"Tutorias Avanzadas",
+    "shortname":"tuta",
+    "tiempo":"2 meses",
+    "opinion":"Para cuberos mas experimentados, se explicará como poder mejorar y aprender técnicas nuevas.",
+    "link":"www.arturocalle.com/"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name":"Microsoft Inc.",
+    "shortname":"mic",
+    "tiempo":"2 años",
+    "aporte":"$20'000.000",
+    "opinion":"El potencial de la tienda en colombia tiene futuro.",
+    "link":"www.microsoft.com"
+  },
+  {
+    "name":"Ubisoft",
+    "shortname":"ubi",
+    "tiempo":"1 años",
+    "aporte":"30% en acciones de la empresa.",
+    "opinion":"Con bases suficientes pueden ser la mejor tienda internacional..",
+    "link":"https://www.ubisoft.com/"
+  },
+  {
+    "name":"Didacticos NASA",
+    "shortname":"dida",
+    "tiempo":"4.5 años",
+    "aporte":"Lotes de cubos mensuales",
+    "opinion":"Desde que conocimos a edurubiks, hemos tenido de la mas alta calidad de materiales en cubos.",
+    "link":"https://www.facebook.com/didacticos.nasa.5"
+  },
+  {
+    "name":"Metodo Genius",
+    "shortname":"gen",
+    "tiempo":"1 años",
+    "aporte":"Exportacion de cubos",
+    "opinion":"Pasamos de ser competencia directa, a ser aliados en ventas.",
+    "link":"www.metodogenius.com"
+  },
+  {
+    "name":"Rubiks Brand",
+    "shortname":"rubi",
+    "tiempo":"3 años",
+    "aporte":"Stikers y lubricantes especializados",
+    "opinion":"Apoyar a empresas de cubos es nuestro deber.",
+    "link":"https://www.rubiks.com/"
+  },
+  {
+    "name":"Tejaditos",
+    "shortname":"teja",
+    "tiempo":"7 años",
+    "aporte":"Alimentación.",
+    "opinion":"Nada mejor que comer un pastel y armar un cubo.",
+    "link":"www.tejaditos.co"
+  }
+]
